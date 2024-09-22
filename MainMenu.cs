@@ -8,31 +8,31 @@ public class MainMenu : MonoBehaviour
     // Oyun sahnesini başlatma
     public void Oyna()
     {
-        SceneManager.LoadScene("Oyun"); // Oyun sahnesinin ismini yazın
+        SceneManager.LoadScene("Oyun"); // Oyun sahnesi
     }
 
     // Ayarlar sahnesine geçiş yapma
     public void Ayarlar()
     {
-        SceneManager.LoadScene("Ayarlar"); // Ayarlar sahnesinin ismini yazın
+        SceneManager.LoadScene("Ayarlar"); // Ayarlar sahnesi
     }
 
     // Krediler sahnesine geçiş yapma
     public void Credits()
     {
-        SceneManager.LoadScene("Credits"); // Krediler sahnesinin ismini yazın
+        SceneManager.LoadScene("Credits"); // Krediler sahnesi
     }
 
     // Oyunu kapatma
     public void Cıkıs()
     {
-        Application.Quit(); // Oyunu kapatır
+        Application.Quit(); // Oyunu kapat
     }
     
      // Ana menüye dönme
     public void MenuyeDon()
     {
-        SceneManager.LoadScene("Ana Menü"); // Ana menü sahnesinin ismini yazın
+        SceneManager.LoadScene("Ana Menü"); // Ana menü sahnesi
     }
 
     
