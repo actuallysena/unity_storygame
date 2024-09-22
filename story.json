@@ -1,0 +1,424 @@
+{
+    "storyNodes": [
+        {
+            "id": 0,
+            "text": "Bir sabah, güneş doğarken, Ana karakterimiz Elif, ormanın derinliklerinde kaybolmuş eski bir harita buldu. Harita, gizemli bir hazineyi işaret ediyordu. Elif, maceraya atılmaya karar verdi. Ne yapmalı?",
+            "options": [
+                {
+                    "text": "Hemen yola çık!",
+                    "sonrakiNodeId": 1
+                },
+                {
+                    "text": "Önce arkadaşlarına danış.",
+                    "sonrakiNodeId": 2
+                }
+            ]
+             ,"imagePath": "Images/image"
+        },
+        {
+            "id": 1,
+            "text": "Elif, haritadaki yönleri takip ederek ormanın derinliklerine ilerledi. Bir süre sonra, karşısında büyük bir nehir belirdi. Nehrin öte tarafında, haritadaki hazineyi koruyan bir canavara dair ipuçları vardı. Ne yapmalı?",
+            "options": [
+                {
+                    "text": "Nehri geçmeye çalış.",
+                    "sonrakiNodeId": 3
+                },
+                {
+                    "text": "Canavara yaklaşmadan geri dön.",
+                    "sonrakiNodeId": 4
+                }
+            ],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 2,
+            "text": "Elif, en yakın arkadaşları Ayşe ve Kemal'i çağırdı. Üçü birlikte haritayı inceledi. Arkadaşları, hazinenin tehlikeli olabileceğini söylediler ama Elif kararlıdır. Ne yapmalı?",
+            "options": [
+                {
+                    "text": "Hemen yola çıkalım!",
+                    "sonrakiNodeId": 1
+                },
+                {
+                    "text": "Bir plan yapalım.",
+                    "sonrakiNodeId": 5
+                }
+            ],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 3,
+            "text": "Elif, nehirdeki kayalara basarak geçmeye çalıştı, fakat dengesini kaybedip suya düştü. Nihayet suyun içinden çıkmayı başardı ama ıslanmış ve soğuk bir haldeydi. Hemen hazineyi bulmak için devam etmeli mi?",
+            "options": [
+                {
+                    "text": "Devam et.",
+                    "sonrakiNodeId": 6
+                },
+                {
+                    "text": "Geri dön ve ısın.",
+                    "sonrakiNodeId": 4
+                }
+            ],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 4,
+            "text": "Elif geri döndü ve bu macerayı bir başka zaman yapmaya karar verdi. Ancak hazineyi bulmanın hayali onu sürekli rahatsız etti. Günler geçtikçe bu macerayı unutamadı. Bir süre sonra, içindeki merak onu yeniden harekete geçirdi.",
+            "options": [
+                {
+                    "text": "Tekrar yola çık.",
+                    "sonrakiNodeId": 1
+                },
+                {
+                    "text": "Başka bir hazine arayalım.",
+                    "sonrakiNodeId": 7
+                }
+            ],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 5,
+            "text": "Arkadaşlarıyla birlikte bir plan yaptılar. Hazineleri koruyan canavara karşı ne yapacaklarını düşündüler. Hazırlıklarını tamamlayıp yola çıkmaya karar verdiler. Ne yapmalılar?",
+            "options": [
+                {
+                    "text": "Canavarı oyalayıp hazineyi almaya çalışalım.",
+                    "sonrakiNodeId": 8
+                },
+                {
+                    "text": "Saklanıp canavarı izleyelim.",
+                    "sonrakiNodeId": 9
+                }
+            ],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 6,
+            "text": "Elif, soğuk ve ıslak olmasına rağmen, maceraya devam etmeye karar verdi. Haritada ilerleyerek, sonunda bir mağaraya ulaştı. Mağaranın kapısında büyük bir taş var. Ne yapmalı?",
+            "options": [
+                {
+                    "text": "Taşı kaldır ve içeri gir.",
+                    "sonrakiNodeId": 10
+                },
+                {
+                    "text": "Taşın etrafında dolaş.",
+                    "sonrakiNodeId": 11
+                }
+            ],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 7,
+            "text": "Yeni bir hazine arayışına çıkmaya karar verdiler ama bu sefer daha dikkatli olmalılardı. Şehirdeki eski bir kütüphaneye giderek kayıp hazinelerin sırlarını araştırmaya başladılar. Ne yapmalı?",
+            "options": [
+                {
+                    "text": "Hızla okumaya başlayın.",
+                    "sonrakiNodeId": 12
+                },
+                {
+                    "text": "Kütüphaneden çıkıp haritayı kontrol et.",
+                    "sonrakiNodeId": 13
+                }
+            ],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 8,
+            "text": "Elif ve arkadaşları, canavarı oyaladı ve hazineye ulaştılar. Ancak hazineyi almak için canavarı geçmeleri gerekiyordu. Elif cesaretini topladı ve canavara karşı çıktı. Ne yapmalı?",
+            "options": [
+                {
+                    "text": "Savaş!",
+                    "sonrakiNodeId": 14
+                },
+                {
+                    "text": "Hızla hazineyi al ve kaç!",
+                    "sonrakiNodeId": 15
+                }
+            ],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 9,
+            "text": "Canavarı izlemeye başladılar. Canavarı dikkatlice takip ederken, onun zayıf noktalarını keşfetmeye başladılar. Ne yapmalılar?",
+            "options": [
+                {
+                    "text": "Plan yaparak saldır.",
+                    "sonrakiNodeId": 16
+                },
+                {
+                    "text": "Kaçmayı deneyin.",
+                    "sonrakiNodeId": 17
+                }
+            ],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 10,
+            "text": "İçeri girdiklerinde, hazine odasına ulaştılar ama odada bir tuzak vardı! Hızla geri çekilmeliler mi?",
+            "options": [
+                {
+                    "text": "Geri çekil!",
+                    "sonrakiNodeId": 18
+                },
+                {
+                    "text": "Tuzağı çözmeye çalış.",
+                    "sonrakiNodeId": 19
+                }
+            ],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 11,
+            "text": "Taşın etrafında dönerken, yere düşmüş eski bir anahtar buldu. Bu anahtar neye yarayabilir? İçeri girmeli mi?",
+            "options": [
+                {
+                    "text": "Anahtarı kullanarak gireyim.",
+                    "sonrakiNodeId": 20
+                },
+                {
+                    "text": "Anahtarı bırakıp başka bir yol arayayım.",
+                    "sonrakiNodeId": 21
+                }
+            ],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 12,
+            "text": "Hızla kütüphaneden eski kitapları incelemeye başladılar. Bir kitap, kayıp bir hazine haritasını içeriyordu! Ne yapmalılar?",
+            "options": [
+                {
+                    "text": "Hemen yola çıkalım!",
+                    "sonrakiNodeId": 1
+                },
+                {
+                    "text": "Biraz daha araştırayım.",
+                    "sonrakiNodeId": 22
+                }
+            ],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 13,
+            "text": "Haritayı kontrol ettiklerinde, eski bir kaleye işaret ettiğini fark ettiler. Kaleye gitmek için yola çıkmaya karar verdiler. Ne yapmalılar?",
+            "options": [
+                {
+                    "text": "Hemen kaleye gidelim.",
+                    "sonrakiNodeId": 23
+                },
+                {
+                    "text": "Önce plan yapalım.",
+                    "sonrakiNodeId": 5
+                }
+            ],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 14,
+            "text": "Elif cesurca canavara saldırdı ama canavar güçlüydü. Ancak, canavarı yavaşlatmayı başardılar ve hazineyi aldılar. Şimdi kaçmalılar mı?",
+            "options": [
+                {
+                    "text": "Kaç ve hazineyi koru!",
+                    "sonrakiNodeId": 24
+                },
+                {
+                    "text": "Canavarı yenmeye çalış.",
+                    "sonrakiNodeId": 25
+                }
+            ],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 15,
+            "text": "Hızla hazineyi alıp kaçtılar. Ancak, canavar peşlerine düştü. Hızla kaçarken Elif, arkadaşı Ayşe'yi korumak zorunda kaldı. Ne yapmalı?",
+            "options": [
+                {
+                    "text": "Ayşe'yi bırak ve kaç!",
+                    "sonrakiNodeId": 26
+                },
+                {
+                    "text": "Ayşe'yi koru ve birlikte kaç.",
+                    "sonrakiNodeId": 27
+                }
+            ],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 16,
+            "text": "Plan yaparak canavara saldırdılar ve onu yendiler. Hazineyi güvenli bir şekilde aldılar. Artık eve dönebilirler mi?",
+            "options": [
+                {
+                    "text": "Evet, hemen dönebiliriz.",
+                    "sonrakiNodeId": 28
+                },
+                {
+                    "text": "Daha fazla macera arayalım.",
+                    "sonrakiNodeId": 29
+                }
+            ],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 17,
+            "text": "Kaçmaya karar verdiler ve canavardan uzaklaşmayı başardılar. Ancak, hazineyi kaybettiler. Ne yapmalı?",
+            "options": [
+                {
+                    "text": "Tekrar denemeliyiz.",
+                    "sonrakiNodeId": 30
+                },
+                {
+                    "text": "Başka bir yere gidelim.",
+                    "sonrakiNodeId": 31
+                }
+            ],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 18,
+            "text": "Geri çekilerek kendilerini güvene aldılar. Düşünmeliler, bu tuzağı nasıl geçebilirler?",
+            "options": [
+                {
+                    "text": "Başka bir yol bul.",
+                    "sonrakiNodeId": 32
+                },
+                {
+                    "text": "Tuzağı çözmeye çalış.",
+                    "sonrakiNodeId": 19
+                }
+            ],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 19,
+            "text": "Tuzağı çözmeye çalıştılar ama başarılı olamadılar. O sırada, bir ses duyuldu ve canavar geri döndü! Ne yapmalı?",
+            "options": [
+                {
+                    "text": "Saklan.",
+                    "sonrakiNodeId": 33
+                },
+                {
+                    "text": "Savaş.",
+                    "sonrakiNodeId": 34
+                }
+            ],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 20,
+            "text": "Anahtarı kullanarak içeri girdiler. Hazine odasına ulaştılar ve gözleri parladı. Hazineyi almayı başardılar ve güvenli bir şekilde geri döndüler. Macera başarıyla sona erdi!",
+            "options": [],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 21,
+            "text": "Anahtarı bırakıp başka bir yol aramaya çıktılar. Ancak, bu yol onları daha büyük tehlikelerle karşılaştırdı ve sonunda kayboldular. Macera burada sona erdi.",
+            "options": [],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 22,
+            "text": "Biraz daha araştırdıktan sonra, başka bir harita buldular. Bu harita, başka bir hazineye işaret ediyordu. Ne yapmalılar?",
+            "options": [
+                {
+                    "text": "Yeni hazineye yola çıkalım!",
+                    "sonrakiNodeId": 1
+                },
+                {
+                    "text": "Hemen kütüphaneden çıkalım.",
+                    "sonrakiNodeId": 7
+                }
+            ],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 23,
+            "text": "Kaleye vardıklarında, çok büyük bir kapıyla karşılaştılar. Kapıyı açmanın bir yolunu bulmaları gerekiyordu. Ne yapmalı?",
+            "options": [
+                {
+                    "text": "Kapıyı zorla açmaya çalış.",
+                    "sonrakiNodeId": 35
+                },
+                {
+                    "text": "Kapıyı açmak için etrafı incele.",
+                    "sonrakiNodeId": 36
+                }
+            ],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 24,
+            "text": "Hazineyi koruyarak kaçmayı başardılar. Elif, büyük bir kahraman olarak döndü ve maceralarına devam etmeye karar verdi.\n-SON-",
+            "options": [],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 25,
+            "text": "Canavarı yenmeye çalıştılar ama başarılı olamadılar. Canavar, Elif'in cesaretini takdir etti ve onu affetti. Elif, yeni bir dost kazanmış oldu.\n-SON-",
+            "options": [],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 26,
+            "text": "Ayşe'yi bırakıp kaçtılar ama Elif, bu kararına pişman oldu. Ayşe kayboldu ve Elif, onu bulmak için geri dönmeye karar verdi.\n-SON-",
+            "options": [],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 27,
+            "text": "Ayşe'yi koruyarak birlikte kaçmayı başardılar. İkisi de güvenli bir yere ulaştı ve hazineyi kurtarmak için tekrar döneceklerdi.\n-SON-",
+            "options": [],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 28,
+            "text": "Eve döndüklerinde, büyük bir kutlama düzenlediler. Elif, arkadaşlarıyla birlikte bu unutulmaz macerayı asla unutmayacaklardı.\n-SON-",
+            "options": [],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 29,
+            "text": "Daha fazla macera arayışına çıktılar ve birçok yeni hazine keşfettiler. Elif, hayatının en güzel anılarını biriktirdi.\n-SON-",
+            "options": [],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 30,
+            "text": "Tekrar denemeye karar verdiler ve canavarı bulup onu yendiler. Hazineyi aldılar ve geri döndüler.\n-SON-",
+            "options": [],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 31,
+            "text": "Başka bir yere gitmeye karar verdiler ama bu yolculukları beklediklerinden daha tehlikeli oldu. Ancak, yine de yeni maceralara atılmaya karar verdiler.\n-SON-",
+            "options": [],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 32,
+            "text": "Başka bir yol bulmayı başardılar ama bu yol, onları daha büyük bir tuzağa yönlendirdi. Neyse ki, birlikte çabalarla kurtuldular.\n-SON-",
+            "options": [],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 33,
+            "text": "Saklanarak canavarı atlattılar. Ancak, bu olay onları daha fazla macera aramaya yönlendirdi.\n-SON-",
+            "options": [],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 34,
+            "text": "Savaşmaya karar verdiler ama canavar çok güçlüydü. Çabaları boşa gitti ama Elif, bu savaştan ders alarak bir gün daha güçlü döneceğine söz verdi.\n-SON-",
+            "options": [],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 35,
+            "text": "Kapıyı zorlayarak açmayı başardılar ama içeri girdiklerinde, başka bir tuzakla karşılaştılar. Hızla geri dönmeliler.\n-SON-",
+            "options": [],
+            "imagePath": "Images/image"
+        },
+        {
+            "id": 36,
+            "text": "Kapıyı açmak için etrafı incelediler ve eski bir mekanizmayı keşfettiler. Kapı açıldı ve içeri girdiklerinde hazineyi buldular. Macera başarıyla sona erdi!\n-SON-",
+            "options": [],
+            "imagePath": "Images/image"
+        }
+    ]
+}
